@@ -1,4 +1,4 @@
-## [Technique]
+## [Investigation Technique]
 
 - **What is it?**
 - **When do I use it?**
