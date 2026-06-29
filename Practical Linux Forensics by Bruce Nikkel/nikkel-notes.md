@@ -2,8 +2,12 @@
 
 Here are my study notes as I work through *Practical Linux Forensics* by Bruce Nikkel.
 
-Table of contents:
-- TODO
+**Table of contents:**
+- [Evidence From Storage Devices and File Systems](#Evidence-From-Storage-Devices-and-File-Systems)
+- [Analysis of Storage Layout and Volume Management](#Analysis-of-Storage-Layout-and-Volume-Management)
+- [Analysis of Partition Tables](#Analysis-of-Partition-Tables)
+- [Logical Volume Manager](#Logical-Volume-Manager)
+- [Linux Software RAID](#Linux-Software-RAID)
 
 ## Evidence From Storage Devices and File Systems
 
@@ -65,7 +69,7 @@ LVM also has the ability to perform copy-on-write (CoW) snapshots.
 There can be useful for forensics because snapshot of volumes there may be snapshots of volumes from a previous point in time.
 On running systems, the volumes can be frozen in a snapshot for analysis of acquisition.
 
-#### Linux Softrward RAID
+#### Linux Software RAID
 
 **RAID:** Redundant array of independent disks
 
