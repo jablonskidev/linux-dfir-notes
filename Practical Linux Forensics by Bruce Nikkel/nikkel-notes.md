@@ -1,6 +1,6 @@
 # Study Notes: Practical Linux Forensics by Bruce Nikkel
 
-Here are my study notes as I work through *Practical Linux Forensics* by Bruce Nikkel.
+Here are my study notes as I work through [*Practical Linux Forensics*](https://nostarch.com/practical-linux-forensics) by Bruce Nikkel.
 
 **Table of contents:**
 - [Evidence From Storage Devices and File Systems](#Evidence-From-Storage-Devices-and-File-Systems)
